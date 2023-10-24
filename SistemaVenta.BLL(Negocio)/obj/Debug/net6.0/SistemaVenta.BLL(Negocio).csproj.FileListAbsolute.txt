@@ -1,0 +1,17 @@
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.BLL(Negocio)\bin\Debug\net6.0\SistemaVenta.BLL(Negocio).deps.json
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.BLL(Negocio)\bin\Debug\net6.0\SistemaVenta.BLL(Negocio).dll
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.BLL(Negocio)\bin\Debug\net6.0\SistemaVenta.BLL(Negocio).pdb
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.BLL(Negocio)\obj\Debug\net6.0\SistemaVenta.BLL(Negocio).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.BLL(Negocio)\obj\Debug\net6.0\SistemaVenta.BLL(Negocio).AssemblyInfoInputs.cache
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.BLL(Negocio)\obj\Debug\net6.0\SistemaVenta.BLL(Negocio).AssemblyInfo.cs
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.BLL(Negocio)\obj\Debug\net6.0\SistemaVenta.BLL(Negocio).csproj.CoreCompileInputs.cache
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.BLL(Negocio)\obj\Debug\net6.0\SistemaVenta.BLL(Negocio).dll
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.BLL(Negocio)\obj\Debug\net6.0\refint\SistemaVenta.BLL(Negocio).dll
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.BLL(Negocio)\obj\Debug\net6.0\SistemaVenta.BLL(Negocio).pdb
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.BLL(Negocio)\obj\Debug\net6.0\ref\SistemaVenta.BLL(Negocio).dll
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.BLL(Negocio)\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.BLL(Negocio)\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.BLL(Negocio)\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.BLL(Negocio)\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.BLL(Negocio)\obj\Debug\net6.0\SistemaVenta.BLL(Negocio).csproj.AssemblyReference.cache
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.BLL(Negocio)\obj\Debug\net6.0\SistemaVenta.BLL(Negocio).csproj.CopyComplete

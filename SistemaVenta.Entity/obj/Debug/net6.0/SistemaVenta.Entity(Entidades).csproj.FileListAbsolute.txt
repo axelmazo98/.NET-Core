@@ -1,0 +1,14 @@
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity(Entidades).deps.json
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity(Entidades).runtimeconfig.json
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity(Entidades).dll
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity(Entidades).pdb
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity(Entidades).csproj.AssemblyReference.cache
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity(Entidades).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity(Entidades).AssemblyInfoInputs.cache
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity(Entidades).AssemblyInfo.cs
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity(Entidades).csproj.CoreCompileInputs.cache
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity(Entidades).dll
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.Entity\obj\Debug\net6.0\refint\SistemaVenta.Entity(Entidades).dll
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity(Entidades).pdb
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity(Entidades).genruntimeconfig.cache
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity(Entidades).dll

@@ -1,0 +1,11 @@
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta-IOC(Control)\bin\Debug\net6.0\SistemaVenta-IOC(Control).deps.json
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta-IOC(Control)\bin\Debug\net6.0\SistemaVenta-IOC(Control).dll
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta-IOC(Control)\bin\Debug\net6.0\SistemaVenta-IOC(Control).pdb
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta-IOC(Control)\obj\Debug\net6.0\SistemaVenta-IOC(Control).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta-IOC(Control)\obj\Debug\net6.0\SistemaVenta-IOC(Control).AssemblyInfoInputs.cache
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta-IOC(Control)\obj\Debug\net6.0\SistemaVenta-IOC(Control).AssemblyInfo.cs
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta-IOC(Control)\obj\Debug\net6.0\SistemaVenta-IOC(Control).csproj.CoreCompileInputs.cache
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta-IOC(Control)\obj\Debug\net6.0\SistemaVenta-IOC(Control).dll
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta-IOC(Control)\obj\Debug\net6.0\refint\SistemaVenta-IOC(Control).dll
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta-IOC(Control)\obj\Debug\net6.0\SistemaVenta-IOC(Control).pdb
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta-IOC(Control)\obj\Debug\net6.0\ref\SistemaVenta-IOC(Control).dll

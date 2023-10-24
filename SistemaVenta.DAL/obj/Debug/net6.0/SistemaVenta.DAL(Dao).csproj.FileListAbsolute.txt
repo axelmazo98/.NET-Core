@@ -1,0 +1,12 @@
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL(Dao).deps.json
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL(Dao).dll
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL(Dao).pdb
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL(Dao).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL(Dao).AssemblyInfoInputs.cache
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL(Dao).AssemblyInfo.cs
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL(Dao).csproj.CoreCompileInputs.cache
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL(Dao).dll
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.DAL\obj\Debug\net6.0\refint\SistemaVenta.DAL(Dao).dll
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL(Dao).pdb
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.DAL\obj\Debug\net6.0\ref\SistemaVenta.DAL(Dao).dll
+C:\Users\axel9\OneDrive\Desktop\cuatrimestre\CURSO ASP.NET MVC\CURSO VENTAS 20-10-2023\SolutionSistemaDeVentas\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL(Dao).csproj.AssemblyReference.cache
