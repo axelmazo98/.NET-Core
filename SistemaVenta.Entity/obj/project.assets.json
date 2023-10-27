@@ -2896,11 +2896,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\axel9\\OneDrive\\Desktop\\cuatrimestre\\CURSO ASP.NET MVC\\CURSO VENTAS 20-10-2023\\SolutionSistemaDeVentas\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\axel9\\OneDrive\\Desktop\\cuatrimestre\\CURSO ASP.NET MVC\\CURSO VENTAS 20-10-2023\\SolutionSistemaDeVentas\\.NET-Core\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
       "projectName": "SistemaVenta.Entity",
-      "projectPath": "C:\\Users\\axel9\\OneDrive\\Desktop\\cuatrimestre\\CURSO ASP.NET MVC\\CURSO VENTAS 20-10-2023\\SolutionSistemaDeVentas\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+      "projectPath": "C:\\Users\\axel9\\OneDrive\\Desktop\\cuatrimestre\\CURSO ASP.NET MVC\\CURSO VENTAS 20-10-2023\\SolutionSistemaDeVentas\\.NET-Core\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
       "packagesPath": "C:\\Users\\axel9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\axel9\\OneDrive\\Desktop\\cuatrimestre\\CURSO ASP.NET MVC\\CURSO VENTAS 20-10-2023\\SolutionSistemaDeVentas\\SistemaVenta.Entity\\obj\\",
+      "outputPath": "C:\\Users\\axel9\\OneDrive\\Desktop\\cuatrimestre\\CURSO ASP.NET MVC\\CURSO VENTAS 20-10-2023\\SolutionSistemaDeVentas\\.NET-Core\\SistemaVenta.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\axel9\\AppData\\Roaming\\NuGet\\NuGet.Config",

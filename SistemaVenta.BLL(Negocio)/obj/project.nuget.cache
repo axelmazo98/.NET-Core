@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wxOG1aOS+m9aLndKwBw7j+jLOvYS8rFYhaGHxJPdehXWKXHHOKE0oqtL+hqrG4629mjtGq7ynp8V6jNAow+Y3Q==",
+  "dgSpecHash": "wawYDIxRVsiDUpZGfX2xtT21Ety/npwuD+gNg25uQBm0PQPWNYFl70be3ChiyDFDPY3RdtxldWokeRoIlXhSBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\axel9\\OneDrive\\Desktop\\cuatrimestre\\CURSO ASP.NET MVC\\CURSO VENTAS 20-10-2023\\SolutionSistemaDeVentas\\SistemaVenta.BLL(Negocio)\\SistemaVenta.BLL.csproj",
+  "projectFilePath": "C:\\Users\\axel9\\OneDrive\\Desktop\\cuatrimestre\\CURSO ASP.NET MVC\\CURSO VENTAS 20-10-2023\\SolutionSistemaDeVentas\\.NET-Core\\SistemaVenta.BLL(Negocio)\\SistemaVenta.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\axel9\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\axel9\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
